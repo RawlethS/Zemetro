@@ -1,0 +1,13 @@
+name = "Zemetro"
+author = "Varg"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8901464a29d20b9401b424eb34eb1b8f705c8fd5f41b5fbf428165cd0b2256b1"
+
+[versions]
+forge = "40.2.1"
+minecraft = "1.18.2"

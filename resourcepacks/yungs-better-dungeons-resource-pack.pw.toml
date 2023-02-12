@@ -1,0 +1,13 @@
+name = "YUNG's Better Dungeons Resource Pack"
+filename = "YUNGs-Better-Dungeons-Resources-1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a137193b1b9f8a3b868cb5d110b648709810a3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3707849
+project-id = 596462
