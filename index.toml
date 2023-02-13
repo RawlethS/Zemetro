@@ -6,6 +6,11 @@ hash = "8d6898ee527dc256f8df03c866aac274d5ba49744583248719ae4ec253a1ff7f"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "5878e2f2c87a48db49b62569ac4be7dec2a9abf449c98d1b7973b0a1f8fe6dcd"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/catalogue.pw.toml"
 hash = "f2003c537074264ef7f1c67dc72e72a79dd5efb39e7d4ee3eec60b0ebad8e938"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
 
 [[files]]
