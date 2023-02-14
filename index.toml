@@ -10,7 +10,7 @@ hash = "11eb9be3585717f0c41759615e97e90230271a1274651b770af114736903e319"
 
 [[files]]
 file = "config/debugify.json"
-hash = "07c4ebe92285d233727b2b37cd63d2faf216f3ee269e2846cbb70365bcd85eab"
+hash = "606d4a35f8146fbeb2c3d3a6dbac247db97f4fb91906ac6328f7adf3adf5e887"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client-1.toml.bak"
