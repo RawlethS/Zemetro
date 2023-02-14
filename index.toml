@@ -29,14 +29,6 @@ file = "config/rubidium_extras.toml"
 hash = "8c1a64e704932ab2715f4802bd0c656929ee5f25528e93995fe0e362fc19dd81"
 
 [[files]]
-file = "config/sadfas.kld"
-hash = "2f999c807b1fc198ae804de3670c84add1fa0088a6a79f476236972ebaba79a0"
-
-[[files]]
-file = "config/test.png"
-hash = "2f999c807b1fc198ae804de3670c84add1fa0088a6a79f476236972ebaba79a0"
-
-[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "8d6898ee527dc256f8df03c866aac274d5ba49744583248719ae4ec253a1ff7f"
 metafile = true
