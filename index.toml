@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "6852c5660e8b1091694e5350f2cbb7fff8f0e067d5fb1581982d5c78f90a655c"
+
+[[files]]
+file = "README.md"
+hash = "11eb9be3585717f0c41759615e97e90230271a1274651b770af114736903e319"
+
+[[files]]
+file = "config/debugify.json"
+hash = "07c4ebe92285d233727b2b37cd63d2faf216f3ee269e2846cbb70365bcd85eab"
+
+[[files]]
+file = "config/fpsreducer/fpsreducer-client-1.toml.bak"
+hash = "0a222a086218a0fc6529359919da9dc8514e5e4c59a51735e0ea182b3442de0d"
+
+[[files]]
+file = "config/fpsreducer/fpsreducer-client.toml"
+hash = "0a222a086218a0fc6529359919da9dc8514e5e4c59a51735e0ea182b3442de0d"
+
+[[files]]
+file = "config/rubidium-options.json"
+hash = "966400f7a90c323f45b0eac1cd785f8a054c7470af9ecbc81c331ce4f3889263"
+
+[[files]]
+file = "config/rubidium_extras.toml"
+hash = "8c1a64e704932ab2715f4802bd0c656929ee5f25528e93995fe0e362fc19dd81"
+
+[[files]]
+file = "config/sadfas.kld"
+hash = "2f999c807b1fc198ae804de3670c84add1fa0088a6a79f476236972ebaba79a0"
+
+[[files]]
+file = "config/test.png"
+hash = "2f999c807b1fc198ae804de3670c84add1fa0088a6a79f476236972ebaba79a0"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "8d6898ee527dc256f8df03c866aac274d5ba49744583248719ae4ec253a1ff7f"
 metafile = true
@@ -744,3 +780,7 @@ metafile = true
 file = "resourcepacks/yungs-better-dungeons-resource-pack.pw.toml"
 hash = "25ea424a5333c5658c88095560c2ce20a9f6d8f59c24d7f44663bfb33e59375f"
 metafile = true
+
+[[files]]
+file = "zemetro.png"
+hash = "2f999c807b1fc198ae804de3670c84add1fa0088a6a79f476236972ebaba79a0"
