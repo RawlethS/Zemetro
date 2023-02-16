@@ -18,7 +18,7 @@ hash = "0a222a086218a0fc6529359919da9dc8514e5e4c59a51735e0ea182b3442de0d"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
-hash = "0a222a086218a0fc6529359919da9dc8514e5e4c59a51735e0ea182b3442de0d"
+hash = "9d15acb4695f98367739fe5c0ded9eb47746fec0c3dd6f043023ebe145bce8ef"
 
 [[files]]
 file = "config/rubidium-options.json"
@@ -34,13 +34,18 @@ hash = "8d6898ee527dc256f8df03c866aac274d5ba49744583248719ae4ec253a1ff7f"
 metafile = true
 
 [[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
+file = "mods/ae2-things-forge.pw.toml"
+hash = "aff000a02f4f72cc87a7db306d46c6e6f10c254665743967abda446d4f8c4623"
 metafile = true
 
 [[files]]
-file = "mods/antighost.pw.toml"
-hash = "5878e2f2c87a48db49b62569ac4be7dec2a9abf449c98d1b7973b0a1f8fe6dcd"
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "6049ce25c35da23208c19374bc6870064144df1f7aabac29f0115af03c8ad9e8"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
 
 [[files]]
@@ -51,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "3cacdb43b158d024f33eda4364c70c8fe15f02ad93011ef44b2e894f9b709ce3"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "b73ecfae09de546011256e0d8935ae3fa475b8104aa395e78670505a0642bde1"
 metafile = true
 
 [[files]]
@@ -66,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/atmospheric.pw.toml"
 hash = "5b4554b40bd9af23e52f150047f7db3b5123d2c42f1da4b66a4d88f4fc8ed1d8"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "902e82fd9cff5ba26db563e0995ab8c4f632cb68f26bc05c2ce6ed6aae30a425"
 metafile = true
 
 [[files]]
@@ -251,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/ding.pw.toml"
 hash = "65b2effd13f2379bfd3b45cf12322bf23853581040a7383b362934fdb94bacbe"
+metafile = true
+
+[[files]]
+file = "mods/drawerfps.pw.toml"
+hash = "38ed3d936bd90687546b5e9edce39aaf06f6aead9cdea62b4ee15392d6c855ec"
 metafile = true
 
 [[files]]
@@ -469,6 +489,31 @@ hash = "8854e47ecb28659355acd89e0b56bb1c75bc1fb67c9eed071e574014d3c7f892"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "5509ff135d46d354664720f02f182bda6ba8697f22b49a42a8cf02aef6112763"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "f0684891c05b13f481c137fd14a77a41614bc37e226af07e1ad42cb85221cc90"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "d234f16017228f2bd379122c731bc62496b073742cf61f1d87f24b9af4b53c15"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
+metafile = true
+
+[[files]]
+file = "mods/more-mekanism-processing.pw.toml"
+hash = "fea1c7d6b98b6606ae17a2e436d7158dd1ec86c29c8af4a500b42d66fa70a00e"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
 metafile = true
@@ -614,6 +659,11 @@ hash = "93853173512757a92f560d4289d80d0b1b5835b0e0143afbb6b3485163dc5d4f"
 metafile = true
 
 [[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "7dccfa48a4ae6b036dc0e3fe517fae918d5c04b79f6c104d93206f72ce1ac40c"
+metafile = true
+
+[[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "79f0f9e40bb05c2234d4603a4a7a1db3f6f8337e2210c5a804d25da29ecad7f2"
 metafile = true
@@ -645,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack.pw.toml"
-hash = "90c83d96dd0263c283f3c333ef264c3170a78443a08c76146ef24d5ccd3194d0"
+hash = "211cee9bd25ea245936c02c74036defdb9c2e1c9a3479c9545ff2dc6bda18f7d"
 metafile = true
 
 [[files]]
