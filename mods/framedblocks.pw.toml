@@ -1,0 +1,13 @@
+name = "FramedBlocks"
+filename = "FramedBlocks-5.0.0-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b87651fd80637d498fe3f07f70fd37c0f123ae6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3672359
+project-id = 441647

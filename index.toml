@@ -9,8 +9,28 @@ file = "README.md"
 hash = "11eb9be3585717f0c41759615e97e90230271a1274651b770af114736903e319"
 
 [[files]]
+file = "config/YungsBridges-forge-1_18.toml"
+hash = "bfbf851c45a8cf75d9add4f2c5e0f32845160264c4d98a9bc1ad88dfd0de0ac9"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "e224996f0dbb67c02deeecfb412d7a4f1b47f9da70ceb08be1232449bf41cdad"
+
+[[files]]
 file = "config/debugify.json"
-hash = "606d4a35f8146fbeb2c3d3a6dbac247db97f4fb91906ac6328f7adf3adf5e887"
+hash = "57696c6e0e9631badad52c46da2ff91c875681951020299214883ba8c059a00b"
+
+[[files]]
+file = "config/ding.toml"
+hash = "218de4d46188c75cd052b9ba06612426276cd3ce8e0c7e7709b07b5def8ca88c"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "be5dc48acc984f3605ef9e73d4cb70ee3b6a744cc7fc3f35665c82a407cb21fa"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client-1.toml.bak"
@@ -21,12 +41,36 @@ file = "config/fpsreducer/fpsreducer-client.toml"
 hash = "9d15acb4695f98367739fe5c0ded9eb47746fec0c3dd6f043023ebe145bce8ef"
 
 [[files]]
+file = "config/itshallnottick-common.toml"
+hash = "4a52cae0758be869c786d714aeab008262a27fb1338a8dbd73f42a5e5315cd0c"
+
+[[files]]
+file = "config/neat-client.toml"
+hash = "57fa6f2783b2c3de78c9a4317e911118059ca16890c2aef0680e8b8f3236695e"
+
+[[files]]
 file = "config/rubidium-options.json"
 hash = "966400f7a90c323f45b0eac1cd785f8a054c7470af9ecbc81c331ce4f3889263"
 
 [[files]]
 file = "config/rubidium_extras.toml"
 hash = "8c1a64e704932ab2715f4802bd0c656929ee5f25528e93995fe0e362fc19dd81"
+
+[[files]]
+file = "config/secondchanceforge-common.toml"
+hash = "25d4c8327bc2039365ad310f781ed2e2351c6b76b6585fe31dd721299426b581"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "77590ba0e5c412f5524767b57c08d4e1f8ce46f1df4e415a196a4189c60c3790"
+
+[[files]]
+file = "config/tombstone-common.toml"
+hash = "6d8833b7047797cc771dcbca07d7b33b03086103a5ef94d33b3691084e6eedf1"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "8549497100dc8816a65ee9db975e8cc5b5441acc94f007bfe4627044d714a84e"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -299,6 +343,11 @@ hash = "201c75733a848fecde779385a89591f1d42a4834c353e5513c73eff08c3a91f8"
 metafile = true
 
 [[files]]
+file = "mods/energymeter.pw.toml"
+hash = "d0f0562673b1a816e8bdfbf5b386002d22270e38f2a7db507aace860e9dece4e"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-mushrooms.pw.toml"
 hash = "85375f3880d1b35b6cd51084c0019921f690b9961afa4934b8998e9dc0d0d308"
 metafile = true
@@ -311,6 +360,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "8685740adfb2f4a19aa0a825be66bef0c4885f608e247aa7ca9a0caa87e42a49"
+metafile = true
+
+[[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "36b91702724cbe50f4fdcb0f278af876b67a0aeceeb557d3ae0e3a0b63499d6f"
 metafile = true
 
 [[files]]
@@ -359,8 +413,18 @@ hash = "0de6372b393860455e476febfba42357c4386fc78bcd3ac747e88a60f8dbc30b"
 metafile = true
 
 [[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "a14ecebdb5bb0320c2b8c5f4483c65ac09acbf1cbaab6fb2eba6f5fa97fa84f5"
+metafile = true
+
+[[files]]
 file = "mods/goprone.pw.toml"
 hash = "256127ee2892e39a953f23b729a8ad3d64d7aeacc377fa36af03c11489c642d4"
+metafile = true
+
+[[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "b004d1b469a550d0b3a8c77010cf47f7cc2d93dc1847dc87e67eab55b6172a9a"
 metafile = true
 
 [[files]]
@@ -391,6 +455,11 @@ metafile = true
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
 hash = "3a8f223c33599ab510da8671b8402239eef9024fb1a148ab3bc422f05e4951c7"
+metafile = true
+
+[[files]]
+file = "mods/lazierae2.pw.toml"
+hash = "27084bd516885e9511c3d22fb143348647284c3124ec76cbcacedbfcfe4941fb"
 metafile = true
 
 [[files]]
@@ -489,6 +558,11 @@ hash = "8854e47ecb28659355acd89e0b56bb1c75bc1fb67c9eed071e574014d3c7f892"
 metafile = true
 
 [[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "792af8f1c872f70fc943d8ec8aa27a3bfbe678dccb6cadc90d633a2d9da36873"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "5509ff135d46d354664720f02f182bda6ba8697f22b49a42a8cf02aef6112763"
 metafile = true
@@ -506,6 +580,16 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
+metafile = true
+
+[[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "d222e72b5b685fefadfa6c886e0e7a4d19429da2b8f524ccd7297248c181a911"
+metafile = true
+
+[[files]]
+file = "mods/mod-name-tooltip.pw.toml"
+hash = "7bfa34ea9ad11fe95d1973cba7fe19925b7946c3f51496f235526c6659bb7c47"
 metafile = true
 
 [[files]]
@@ -536,6 +620,11 @@ metafile = true
 [[files]]
 file = "mods/neat.pw.toml"
 hash = "961a956df524c3509c02a21ad94d4220bfddd42f5242512a0910dce5fa8c75d8"
+metafile = true
+
+[[files]]
+file = "mods/no-villager-death-messages.pw.toml"
+hash = "0fc78b8828037acdee0bf8f1077b00f30289e97640eda931e002d9793c854018"
 metafile = true
 
 [[files]]
@@ -574,6 +663,11 @@ hash = "96eec097e8204a2e509dbbba0cf3fdf8a94050da1605d30ec755ca18b7cc8c5b"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "3708d138fcfc8f482eb70c2109af2d2e544a20d9b9aeadd36955e43fd5055d87"
+metafile = true
+
+[[files]]
 file = "mods/pollen.pw.toml"
 hash = "234a07addb29fb16503b9e45c15feacfe1dbd7604788d72e3930aefad352f141"
 metafile = true
@@ -581,6 +675,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "5999f9c35dc54c19d570b20fcbe0551e835236a0dca442b9279fd852590eec68"
+metafile = true
+
+[[files]]
+file = "mods/primal-magick.pw.toml"
+hash = "c26908543f96a7841a14f90ff9b45330144276eb5c6ff5aea5f934a02e5884b9"
 metafile = true
 
 [[files]]
@@ -626,6 +725,21 @@ metafile = true
 [[files]]
 file = "mods/signpost.pw.toml"
 hash = "24f5fa0ce70f63b40e20b17e42ce339a0b930f305afb40557169e3d08b5f1c92"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "632c748338d71584f869f2ee35448de1b5576ea5ef0384d4046342a54d44f91c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "fb24d3210a515397f396f76e1cc596cc35685bde311be1f64a117bed617a0660"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "e1c059e28d866b1e8aba5c02ceef7c3970f3c361df35b065fabd3d8ad0c74693"
 metafile = true
 
 [[files]]
@@ -816,6 +930,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/tinkers-tables.pw.toml"
 hash = "6486b898a21da137bb8a93f7b969ca83ea990d9be9b15e554fa0a2ddd77aa2ad"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity-dark-edition.pw.toml"
+hash = "7eb1fc6126feb1c9d748dfa757d7fffb0e73a58ed6897f30cfed5fb1fb2dff8a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity.pw.toml"
+hash = "70d67ad022a2a1a56617bf6e51c8ad6a5573f87d3ff521b776783a3247ced7a8"
 metafile = true
 
 [[files]]
