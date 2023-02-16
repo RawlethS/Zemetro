@@ -49,14 +49,6 @@ file = "config/neat-client.toml"
 hash = "57fa6f2783b2c3de78c9a4317e911118059ca16890c2aef0680e8b8f3236695e"
 
 [[files]]
-file = "config/rubidium-options.json"
-hash = "966400f7a90c323f45b0eac1cd785f8a054c7470af9ecbc81c331ce4f3889263"
-
-[[files]]
-file = "config/rubidium_extras.toml"
-hash = "8c1a64e704932ab2715f4802bd0c656929ee5f25528e93995fe0e362fc19dd81"
-
-[[files]]
 file = "config/secondchanceforge-common.toml"
 hash = "25d4c8327bc2039365ad310f781ed2e2351c6b76b6585fe31dd721299426b581"
 
