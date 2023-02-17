@@ -940,6 +940,11 @@ hash = "7eb1fc6126feb1c9d748dfa757d7fffb0e73a58ed6897f30cfed5fb1fb2dff8a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/unity-modded.pw.toml"
+hash = "9b8f25430f08eae50cb568c73e3852c584cae409d5104ed79f89bd3e0a7de71e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/unity.pw.toml"
 hash = "70d67ad022a2a1a56617bf6e51c8ad6a5573f87d3ff521b776783a3247ced7a8"
 metafile = true
