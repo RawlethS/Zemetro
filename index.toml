@@ -46,7 +46,7 @@ hash = "4a52cae0758be869c786d714aeab008262a27fb1338a8dbd73f42a5e5315cd0c"
 
 [[files]]
 file = "config/neat-client.toml"
-hash = "57fa6f2783b2c3de78c9a4317e911118059ca16890c2aef0680e8b8f3236695e"
+hash = "f594066984eb9dd30971297fcfe0d4366ba2c94e5325a9dd2febd80a47f9976d"
 
 [[files]]
 file = "config/secondchanceforge-common.toml"
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "04eeb1be0aad7b7eb11e5dc6f64e64b6b47acf3c5879297f63349b8f4812ba51"
+hash = "26a174a078be4f8c995515972263d71322aae276d8cd5acb49337e55ff86c06f"
 metafile = true
 
 [[files]]
@@ -397,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/flywheel.pw.toml"
 hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
+metafile = true
+
+[[files]]
+file = "mods/forbidden-arcanus.pw.toml"
+hash = "c8fe415462d4eacc70a471792f04757d1ef6b4a5885491d609e69d5809a8bcfb"
 metafile = true
 
 [[files]]
@@ -807,6 +812,11 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "1440950d1e69a29fd70dcce7db3aed2309883d635337184dd1ea6ee179ec2e3a"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "af5288cda5a707bf29d9bedf7c196c7d60cc1d0344c9558a614a63dba91fcd0b"
 metafile = true
 
 [[files]]
