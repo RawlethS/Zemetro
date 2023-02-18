@@ -220,6 +220,11 @@ hash = "a57e921f872596ca19e411d726b7f6db272267f2dd712322a3168ce0f404fd44"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "6e706103e99c2888e886260a6d003bde20d8a9a9b6c62965970b5e996b23c773"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "8ad24232c566e734dfc766b26023070d3bfd2bf9457aade6071c535e4cc52a73"
 metafile = true
@@ -385,6 +390,11 @@ hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "f3d92f1fe35d8fedda89c5a8597d865b3a06a682a9408bd98aff258563477223"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "3018aeb9952f02e4b9333fd95f8773f2df4f1568c88649d9d63b942aefc1500e"
 metafile = true
@@ -427,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "a14ecebdb5bb0320c2b8c5f4483c65ac09acbf1cbaab6fb2eba6f5fa97fa84f5"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "2259da0affe7619599f75876444689dbcad384caf7ed87835575b7f56a6823e9"
 metafile = true
 
 [[files]]
