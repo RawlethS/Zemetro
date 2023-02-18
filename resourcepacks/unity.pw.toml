@@ -1,6 +1,6 @@
 name = "Unity"
 filename = "Unity-1.18.X-Base-2.4.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

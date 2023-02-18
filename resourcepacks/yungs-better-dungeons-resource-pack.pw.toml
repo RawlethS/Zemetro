@@ -1,6 +1,6 @@
 name = "YUNG's Better Dungeons Resource Pack"
 filename = "YUNGs-Better-Dungeons-Resources-1.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

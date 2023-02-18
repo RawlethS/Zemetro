@@ -1,6 +1,6 @@
 name = "Unity: Dark Edition"
 filename = "Unity-1.18.X-Dark-0.9.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

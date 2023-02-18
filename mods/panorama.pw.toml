@@ -1,6 +1,6 @@
 name = "Panorama"
 filename = "panorama-1.2.0-1.18.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

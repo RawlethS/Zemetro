@@ -391,12 +391,22 @@ metafile = true
 
 [[files]]
 file = "mods/fastfurnace.pw.toml"
-hash = "f3d92f1fe35d8fedda89c5a8597d865b3a06a682a9408bd98aff258563477223"
+hash = "5a857e5ab8720ccd0ec879a6812f25f273a63c2e6af04958da7bff202dd7dd7c"
 metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
 hash = "3018aeb9952f02e4b9333fd95f8773f2df4f1568c88649d9d63b942aefc1500e"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "aabf921df6c6895e3703f0159992521a413fb18e0b75b2f5da7bccc62ffb9194"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "3192433f940257c03b21f7c13cdf0af8195c797c08d3f762da5eaf102a061cbc"
 metafile = true
 
 [[files]]
@@ -492,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "b4b6828ba835038615eb2ee91d8b1eaeef53687952bf89769c680854d7dba63f"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "97009dc2d61177ab12f320824a34a1343295653ad75f37250f1eaa4a349476be"
 metafile = true
 
 [[files]]
