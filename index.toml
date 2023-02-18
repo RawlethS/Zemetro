@@ -85,6 +85,11 @@ hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "520a90112c3e9a9caa0fb1eda8f3745bc866e87114737423717ca265c326b06d"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "84abec9cda0e905d2e503066a11fd6addb6b28e6604c633485993c25850b7198"
 metafile = true
@@ -141,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "5a3352eca002127df147a27761f924547d75627233a3b6c87b3110136ffcfb35"
+hash = "b2b8b984457800f2ef25429ef8b803a267861c6f8dd1b5472be857ca50a5008e"
 metafile = true
 
 [[files]]
@@ -156,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
-hash = "43ba9e344d296d84c8cd634b622af4aaef85ccd3ebafa98a14b8967d5d991ac5"
+hash = "7c21ede97f64903fcda3d3828f18d0f43b1060d2c8af2967992f3b7a312b58c8"
 metafile = true
 
 [[files]]
@@ -242,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "63f1ab59061fb126cdabf39d74329ca1831e761b798c8aed0a79816c3874c04c"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "73ef74802919b21b722736056853711b130dfd42320ca0e6d4046d3b6839f883"
 metafile = true
 
 [[files]]
@@ -342,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-mushrooms.pw.toml"
 hash = "85375f3880d1b35b6cd51084c0019921f690b9961afa4934b8998e9dc0d0d308"
+metafile = true
+
+[[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "ab799aeda7413bcb31c2119de91f50833168badc173df42a8476aa7f11fc5dd3"
 metafile = true
 
 [[files]]
@@ -447,11 +462,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
-metafile = true
-
-[[files]]
-file = "mods/krypton-reforged.pw.toml"
-hash = "3a8f223c33599ab510da8671b8402239eef9024fb1a148ab3bc422f05e4951c7"
 metafile = true
 
 [[files]]
@@ -625,6 +635,11 @@ hash = "0fc78b8828037acdee0bf8f1077b00f30289e97640eda931e002d9793c854018"
 metafile = true
 
 [[files]]
+file = "mods/nochatlag.pw.toml"
+hash = "e1fa1d732662d24dffd917b4d5aabee6368f3a243d7e7c4ec9795d5903743d0c"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "6ec936a55537158dee69f1feee265a79655c0724b059f972258125aa6db60242"
 metafile = true
@@ -662,6 +677,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "3708d138fcfc8f482eb70c2109af2d2e544a20d9b9aeadd36955e43fd5055d87"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "9a495d7e040fc3aa0100fcbc89bba4c9d5c115c4b0a2b71a6dbbe23bd5c574e9"
 metafile = true
 
 [[files]]
@@ -737,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "e1c059e28d866b1e8aba5c02ceef7c3970f3c361df35b065fabd3d8ad0c74693"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c6397c3fafeed44c67b0ea31e5cbdabc4001e4fee78013c7f3e0cfe88c25a42d"
 metafile = true
 
 [[files]]
