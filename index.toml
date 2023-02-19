@@ -160,6 +160,11 @@ hash = "fe276d7b7d317d411611369c6892b5c9d6c9b9e4ff00d8cec8c53b03300e6b37"
 metafile = true
 
 [[files]]
+file = "mods/bee-fix.pw.toml"
+hash = "8154f17e65db17512b75910fac17692513a7cff138f283995d9d47ae1f502d00"
+metafile = true
+
+[[files]]
 file = "mods/berry-good.pw.toml"
 hash = "01a254b447297d79d321886a845f8299f39ae8a074a923c0495eabcd1499d071"
 metafile = true
@@ -252,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "15405c43e9dade209198ecb2907944c2c5ada78dda2e680c0ecd44b494ae2671"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
 metafile = true
 
 [[files]]
@@ -730,6 +740,11 @@ hash = "5999f9c35dc54c19d570b20fcbe0551e835236a0dca442b9279fd852590eec68"
 metafile = true
 
 [[files]]
+file = "mods/potion-fix.pw.toml"
+hash = "60b9703be9f34bf07fa5096c95f24cbed0bef84f32834ee36e6408fa87b9ec31"
+metafile = true
+
+[[files]]
 file = "mods/primal-magick.pw.toml"
 hash = "c26908543f96a7841a14f90ff9b45330144276eb5c6ff5aea5f934a02e5884b9"
 metafile = true
@@ -857,6 +872,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "410ec9ece045e2c6a3b15363c8a4215d4ed4b976a1815a79dca541eb1f5aa232"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "0e15ac6d04517e3cfc732345d95ca5fbd0c4b14839b2fa7fc45fc77701acfbbe"
 metafile = true
 
 [[files]]
