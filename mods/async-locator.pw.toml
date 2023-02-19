@@ -1,0 +1,13 @@
+name = "Async Locator"
+filename = "asynclocator-1.18.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f0f9a6a2058c7f70e8b28b0872091a076af3ec4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4194444
+project-id = 625069

@@ -115,6 +115,11 @@ hash = "a50a33ef816833d7540461b89161751bccf1fdbdc9ab0bbf9d07942621a26267"
 metafile = true
 
 [[files]]
+file = "mods/async-locator.pw.toml"
+hash = "f5c9d4a37663dc40076d721ea3db85ff90a8882da01b463a6b99c841c2a8e964"
+metafile = true
+
+[[files]]
 file = "mods/atmospheric.pw.toml"
 hash = "5b4554b40bd9af23e52f150047f7db3b5123d2c42f1da4b66a4d88f4fc8ed1d8"
 metafile = true
