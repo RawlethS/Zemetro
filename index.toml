@@ -160,11 +160,6 @@ hash = "fe276d7b7d317d411611369c6892b5c9d6c9b9e4ff00d8cec8c53b03300e6b37"
 metafile = true
 
 [[files]]
-file = "mods/bee-fix.pw.toml"
-hash = "8154f17e65db17512b75910fac17692513a7cff138f283995d9d47ae1f502d00"
-metafile = true
-
-[[files]]
 file = "mods/berry-good.pw.toml"
 hash = "01a254b447297d79d321886a845f8299f39ae8a074a923c0495eabcd1499d071"
 metafile = true
