@@ -255,11 +255,6 @@ hash = "15405c43e9dade209198ecb2907944c2c5ada78dda2e680c0ecd44b494ae2671"
 metafile = true
 
 [[files]]
-file = "mods/connectivity.pw.toml"
-hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "63f1ab59061fb126cdabf39d74329ca1831e761b798c8aed0a79816c3874c04c"
 metafile = true
@@ -705,11 +700,6 @@ hash = "4cb1c244f2acccb0a9842cb8f3634732ca270467ef6d8fbc9cb58faec2037f54"
 metafile = true
 
 [[files]]
-file = "mods/panorama.pw.toml"
-hash = "31eeaafa67bf0054a830dd4a1bdc423e9e2f83f9dd6d76d1689d24642e572f9b"
-metafile = true
-
-[[files]]
 file = "mods/paragliders.pw.toml"
 hash = "96eec097e8204a2e509dbbba0cf3fdf8a94050da1605d30ec755ca18b7cc8c5b"
 metafile = true
@@ -732,11 +722,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "5999f9c35dc54c19d570b20fcbe0551e835236a0dca442b9279fd852590eec68"
-metafile = true
-
-[[files]]
-file = "mods/potion-fix.pw.toml"
-hash = "60b9703be9f34bf07fa5096c95f24cbed0bef84f32834ee36e6408fa87b9ec31"
 metafile = true
 
 [[files]]
