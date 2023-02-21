@@ -218,11 +218,6 @@ hash = "d22e39f722bf8ef2c78d1287422bb05a159837ca0ee1f304bba2f8f75173da18"
 metafile = true
 
 [[files]]
-file = "mods/catalogue.pw.toml"
-hash = "1e09653f0241c715d9da6ebb677e09b7943385a58f31af10b77e6c61e5e3cf25"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
@@ -255,6 +250,11 @@ metafile = true
 [[files]]
 file = "mods/compat-o-plenty.pw.toml"
 hash = "7301e9da3ca60119114b75f5bb8117086cfdd4a0101c9ac6890cf2e6619b79e6"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "15405c43e9dade209198ecb2907944c2c5ada78dda2e680c0ecd44b494ae2671"
 metafile = true
 
 [[files]]
