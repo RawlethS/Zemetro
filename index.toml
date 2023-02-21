@@ -10,7 +10,15 @@ hash = "11eb9be3585717f0c41759615e97e90230271a1274651b770af114736903e319"
 
 [[files]]
 file = "config/YungsBridges-forge-1_18.toml"
-hash = "bfbf851c45a8cf75d9add4f2c5e0f32845160264c4d98a9bc1ad88dfd0de0ac9"
+hash = "aeba750fad5760c4cea5a849ae371aeac8101873702ab1f8530bcf1dd46cb168"
+
+[[files]]
+file = "config/alexmobs/toucan_spawns.json"
+hash = "14d4e65830f2770df8c4d3cc27022407ef9c93017e8b24b3fd4a1f29383f2432"
+
+[[files]]
+file = "config/alexsmobs.toml"
+hash = "10cec84da7396e8bf60f343c2f633a3cafb19f0f551c35597f5c38da880af4a2"
 
 [[files]]
 file = "config/create-client.toml"
@@ -247,11 +255,6 @@ metafile = true
 [[files]]
 file = "mods/compat-o-plenty.pw.toml"
 hash = "7301e9da3ca60119114b75f5bb8117086cfdd4a0101c9ac6890cf2e6619b79e6"
-metafile = true
-
-[[files]]
-file = "mods/configured.pw.toml"
-hash = "15405c43e9dade209198ecb2907944c2c5ada78dda2e680c0ecd44b494ae2671"
 metafile = true
 
 [[files]]
