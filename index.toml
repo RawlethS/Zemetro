@@ -223,6 +223,11 @@ hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
 
 [[files]]
+file = "mods/clayworks.pw.toml"
+hash = "7d5a18f02ff31b2e327e718dfd00da8209716a3b93474938ac6142d6b4ecaeed"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a57e921f872596ca19e411d726b7f6db272267f2dd712322a3168ce0f404fd44"
 metafile = true
