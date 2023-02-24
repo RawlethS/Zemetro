@@ -908,6 +908,11 @@ hash = "732e0a3b14e047e65d1c5df70adce125173007db0d4ccc90926febf53d22fc9d"
 metafile = true
 
 [[files]]
+file = "mods/wthit-harvestability.pw.toml"
+hash = "98a44558c51689488771d77f36b94f1f809bf2eabc7feca06573b80ef280c7d9"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "783446e9315a92cf550a2f03e3b9391ea45667676d2c109ed651ebd8fbf08c18"
 metafile = true
