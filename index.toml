@@ -13,12 +13,12 @@ file = "config/YungsBridges-forge-1_18.toml"
 hash = "aeba750fad5760c4cea5a849ae371aeac8101873702ab1f8530bcf1dd46cb168"
 
 [[files]]
-file = "config/alexmobs/toucan_spawns.json"
-hash = "14d4e65830f2770df8c4d3cc27022407ef9c93017e8b24b3fd4a1f29383f2432"
-
-[[files]]
 file = "config/alexsmobs.toml"
 hash = "10cec84da7396e8bf60f343c2f633a3cafb19f0f551c35597f5c38da880af4a2"
+
+[[files]]
+file = "config/alexsmobs/toucan_spawns.json"
+hash = "14d4e65830f2770df8c4d3cc27022407ef9c93017e8b24b3fd4a1f29383f2432"
 
 [[files]]
 file = "config/create-client.toml"
@@ -62,7 +62,7 @@ hash = "25d4c8327bc2039365ad310f781ed2e2351c6b76b6585fe31dd721299426b581"
 
 [[files]]
 file = "config/tconstruct-common.toml"
-hash = "77590ba0e5c412f5524767b57c08d4e1f8ce46f1df4e415a196a4189c60c3790"
+hash = "310477e006dbd28f9dd631e8662a9874862de5269241eb44fbee585a04d02eb2"
 
 [[files]]
 file = "config/tombstone-common.toml"
