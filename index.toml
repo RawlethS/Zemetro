@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "843b158805276230dd0fe31041f67393b5aa36cfa7a5d8031704deee63da464c"
+hash = "4a973b71ef3112b73394b7c5b747006e6d827b2c3507d1e95261ed628c22274a"
 metafile = true
 
 [[files]]
@@ -789,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "058a0c02c9735a132c19e58358a1d28fe1cba6ce91267c42562d6c257b8afde8"
+hash = "f0c1247bfed9665fec21cfddb498e667cddda40f794d870d5dfd1e2fad777feb"
 metafile = true
 
 [[files]]
@@ -810,11 +810,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
-metafile = true
-
-[[files]]
-file = "mods/signpost.pw.toml"
-hash = "24f5fa0ce70f63b40e20b17e42ce339a0b930f305afb40557169e3d08b5f1c92"
 metafile = true
 
 [[files]]
