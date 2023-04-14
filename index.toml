@@ -303,6 +303,11 @@ hash = "1d4cbe411ab2aa943d6f9ab878416b53ff9a683d395fb413f841579c5b470f39"
 metafile = true
 
 [[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "0dac10da1b5fcaaa4e7db09e374e2864634089898ea98678aa25353131fa5be2"
+metafile = true
+
+[[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "405183e12e147b78833f069cfc5400d390544842a3711cc75252a15d832ba04c"
 metafile = true
