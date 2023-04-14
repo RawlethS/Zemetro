@@ -558,6 +558,11 @@ hash = "8acba14a9f60a78688848ced337b2eccf428f25d0ad327ebc1f22ca84b9db57e"
 metafile = true
 
 [[files]]
+file = "mods/lightspeedmod.pw.toml"
+hash = "f2c86b9ec9142e526ecb63a58b6a51859427e631f50672fdeea3ef2d804f9c4c"
+metafile = true
+
+[[files]]
 file = "mods/log-begone.pw.toml"
 hash = "577b0278f8930cc9371452a650035b65f0908896410e2657a03282498095808c"
 metafile = true
@@ -680,6 +685,11 @@ metafile = true
 [[files]]
 file = "mods/mod-name-tooltip.pw.toml"
 hash = "1398754e34ea789a233b03914c6ea0d589e77fadbe76ee6ac4bcf60a55b46308"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "d0cda6b330ba39245fa0a66e0539f27b61ba2046d368bfeaa5577428bca8b8d7"
 metafile = true
 
 [[files]]
