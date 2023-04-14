@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
-hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
+hash = "102d8d9d03ab3f95c73dd82bf9ef3df37dba791f92e3cbd2ca7e54d4af603417"
 metafile = true
 
 [[files]]
@@ -668,6 +668,11 @@ hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ecaf5c678d92a4cfa57369fec17abd9e34c44bed705f1fcdd1eb1caa4a791a4d"
+metafile = true
+
+[[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "00597aa74e114cc1088d56a28dec4cb255b1f41747a0a5b81850e2940ed13ebe"
 metafile = true
@@ -810,6 +815,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
+metafile = true
+
+[[files]]
+file = "mods/server-tab-info.pw.toml"
+hash = "efe994f262716871418b012195187ccdc15075e91c007f80450d513fae537c52"
 metafile = true
 
 [[files]]
@@ -980,6 +990,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts-forge.pw.toml"
 hash = "23c78b6156a0aef262ef2964d744d50689a193a91991412b68a0da3e5c3eeaef"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "22fb80623f53a70d86109734117effce021a0df82c8cbcd56bbaee2a6aa70524"
 metafile = true
 
 [[files]]
